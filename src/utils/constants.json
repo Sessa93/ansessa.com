@@ -1,0 +1,16 @@
+{
+    "WILDCARD": "*",
+    "NOT_FOUND": "/404",
+    "MUTATIONS": {
+        "SIDENAV_OPEN": "sidenav_open", 
+        "SIDENAV_CLOSE": "sidenav_close", 
+        "SIDENAV_TOGGLE": "sidenav_toggle", 
+        "ROUTE_CHANGE": "route_change", 
+        "UPDATE_MY_REPOS": "update_my_repos"
+    },
+    "CLASSES": {
+        "OPENED": "opened", 
+        "CLOSED": "closed", 
+        "SELECTED": "selected"
+    }
+}

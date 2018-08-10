@@ -1,0 +1,28 @@
+{
+    "links": [
+        {
+            "key": "mail",
+            "text": "Mail",
+            "icon": "fi-mail",
+            "url": "mailto:andrea.sessa@cleafy.com"
+        },
+        {
+            "key": "li",
+            "text": "LinkedIn",
+            "icon": "fi-social-linkedin",
+            "url": "https://www.linkedin.com/in/andrea-sessa-8b040a72/"
+        },
+        {
+            "key": "fb",
+            "text": "Facebook",
+            "icon": "fi-social-facebook",
+            "url": "https://www.facebook.com/asessa3"
+        },
+        {
+            "key": "gh",
+            "text": "GitHub",
+            "icon": "fi-social-github",
+            "url": "https://github.com/Sessa93"
+        }
+    ]
+}
