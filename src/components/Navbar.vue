@@ -5,7 +5,7 @@
             <ul class="navbar-wrapper">
                 <li class="nav-link" v-for="link in links" :key="link.path" @click="navigate(link)" v-bind:class="linkClass(link)">{{ link.name }}</li>
                 <li class="nav-link download">
-                    <a class="download-anchor" href="static/resume.pdf" download="Resume.pdf"><span class="icon fi-download"></span>CV</a>
+                    <a class="download-anchor" href="https://www.dropbox.com/s/1gd3ouq98vv3cvc/cv_4.pdf?dl=0" ><span class="icon fi-download"></span>CV</a>
                 </li>
             </ul>
         </nav>
